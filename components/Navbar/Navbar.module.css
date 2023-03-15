@@ -1,0 +1,12 @@
+.yc{
+    background: #000000;
+    color: #ffffff;
+    padding: 0.5em;
+    justify-content: flex-start;
+}
+.kko{
+    justify-content: space-evenly;
+    align-content: center;
+    display: flex;
+}
+
